@@ -1,4 +1,4 @@
-# 🍪 Rewards App - Setup Guide
+# 🎁 Rewards App - Setup Guide
 
 A simple MERN stack game where clicking a button earns points, with a chance to win extra points and prizes! 🚀
 
