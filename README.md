@@ -7,6 +7,9 @@ A simple MERN stack game where clicking a button earns points, with a chance to 
 - 50% chance of getting extra 10 points
 - 25% chance of winning a prize 🎉
 
+## 🎬 DEMO
+![Rewards App Demo](https://github.com/AnkitKumarMishra5/rewards-app/blob/c61b4559ce92cba71c3466ebb84d603013ea6948/client/public/rewards-app.gif)
+
 ---
 
 ## 🛠️ Setup Instructions
